@@ -15,6 +15,8 @@ We will cover:
 
 ## Get Up and Running
 
+**IMPORTANT** Use Node.js version 12.22.12 in order to use npm commands i.e. install, run build(-dev, -prod), start. This version was chosen because Udacity's Workspace area uses this version and runs all commands perfectly with no egregious dependency errors.
+
 Fork this repo, then clone the branch of your choice from your forked repo down to your computer:
 
 ```
